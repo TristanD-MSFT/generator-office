@@ -309,7 +309,7 @@ module.exports = generators.Base.extend({
   /**
    * last cleanup, goodbye, etc
    */
-  end: { 
+  end: function(){ 
     this.log('All done. Press ENTER to exit.');
   }
 });
