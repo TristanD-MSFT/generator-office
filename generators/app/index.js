@@ -310,6 +310,6 @@ module.exports = generators.Base.extend({
    * last cleanup, goodbye, etc
    */
   end: { 
-    this.log('All done. Press ENTER to exit.')
+    this.log('All done. Press ENTER to exit.');
   }
 });
