@@ -84,9 +84,9 @@
     "mocha": "*",
     "mockery": "^1.4.0",
     "tsd": "^0.6.5",
-    "validator": "^4.0.3",
+    "validator": "^5.0.0",
     "which": "^1.1.1",
-    "yargs": "^3.24.0",
+    "yargs": "^4.2.0",
     "yeoman-assert": "^2.1.1",
     "yeoman-test": "^1.0.0"
   }
